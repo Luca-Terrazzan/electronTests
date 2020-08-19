@@ -1,0 +1,22 @@
+{
+  "name": "electrontests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luca-Terrazzan/electronTests.git"
+  },
+  "author": "Luca Terrazzan <luca.terraz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luca-Terrazzan/electronTests/issues"
+  },
+  "homepage": "https://github.com/Luca-Terrazzan/electronTests#readme",
+  "devDependencies": {
+    "electron": "^9.2.1"
+  }
+}
